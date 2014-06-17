@@ -1,6 +1,6 @@
 {
   "name": "requirein",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A require() that works in a specified directory.",
   "main": "index.js",
   "scripts": {
