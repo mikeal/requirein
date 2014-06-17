@@ -4,7 +4,7 @@
   "description": "A require() that works in a specified directory.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test.js"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
