@@ -1,0 +1,22 @@
+{
+  "name": "requirein",
+  "version": "0.0.0",
+  "description": "A require() that works in a specified directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/requirein"
+  },
+  "keywords": [
+    "require"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeal/requirein/issues"
+  },
+  "homepage": "https://github.com/mikeal/requirein"
+}
