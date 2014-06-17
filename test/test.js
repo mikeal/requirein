@@ -4,7 +4,7 @@ var requirein = require('../')
   , d = path.join(__dirname, 'sub1', 'sub2', 'sub3')
   ;
 
-var request = requirein(d, 'request')
+var request = requirein(d, 'testpkg')
 
 assert.ok(request.put)
 assert.ok(request.get)
