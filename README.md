@@ -1,5 +1,7 @@
 ## `requirein(path, name)`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/requirein.svg)](https://greenkeeper.io/)
+
 Use node's require function as if the file you're requiring from is in another target directory.
 
 ```javascript
